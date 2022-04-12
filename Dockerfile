@@ -1,4 +1,4 @@
-FROM node:8.7.0-alpine
+FROM public.ecr.aws/lambda/nodejs:12
 
 MAINTAINER Calvin Lee Fernandes
 
